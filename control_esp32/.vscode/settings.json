@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/sam/.platformio/penv/bin:/home/sam/.platformio/penv:/home/sam/bin:/home/sam/.local/bin:/home/sam/go/bin:/opt/java/bin:/home/sam/opt/bin:/home/sam/opt/jmeter/bin:/home/sam/bin:/home/sam/.local/bin:/home/sam/bin/Sencha/Cmd:/home/sam/anaconda3/bin:/home/sam/go/bin:/opt/java/bin:/home/sam/opt/bin:/home/sam/opt/jmeter/bin:/home/sam/bin:/home/sam/.local/bin:/home/sam/go/bin:/opt/java/bin:/home/sam/opt/bin:/home/sam/opt/jmeter/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
